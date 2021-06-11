@@ -1,0 +1,10 @@
+$mainColor: #aed08c;
+$background: grey;
+
+h1, button, p {
+    color: $mainColor;
+}
+
+body {
+    background-color: $background;
+}
